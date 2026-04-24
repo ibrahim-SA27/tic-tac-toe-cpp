@@ -19,8 +19,8 @@ This project is a console-based Tic Tac Toe game developed using C++. It demonst
 3. Enter positions from 1 to 9 to play
 
 ## 📸 Sample Output
-(Add your screenshot here)
 
+![Game Output](output 3.png)
 ## 📚 Concepts Used
 - Arrays
 - Functions
