@@ -20,7 +20,7 @@ This project is a console-based Tic Tac Toe game developed using C++. It demonst
 
 ## 📸 Sample Output
 
-![Game Output](output 3.png)
+![Game Output](Output4.png)
 ## 📚 Concepts Used
 - Arrays
 - Functions
